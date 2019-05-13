@@ -15,12 +15,12 @@
 
 验证工具所用的交易是（游戏ID 8888） https://bytomdice.com/fairgame/8888
 
-服务器种子:
-c9656775fd0f9d40dcde80fd597cc7e863144cb4fccbfc1e47de1ff4849ab054
-交易哈希：
-b31e198874365efc77338439e16c9b92c9b0c75a49c82c61c4e4423b71139996
-交易哈希排名：
-0
+* 服务器种子:
+  - c9656775fd0f9d40dcde80fd597cc7e863144cb4fccbfc1e47de1ff4849ab054
+* 交易哈希：
+  - b31e198874365efc77338439e16c9b92c9b0c75a49c82c61c4e4423b71139996
+* 交易哈希排名：
+  - 0
 
 随机数模拟器（验证工具）页面： https://bytomdice.com/simulator
 
