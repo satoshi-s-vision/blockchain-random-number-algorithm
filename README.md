@@ -2,7 +2,7 @@
 
 Random Number Algorithm
 
-The Algorithm we are using for BytomDice.com random number is easy to understand. 
+The Algorithm is easy to understand. 
 
 A blockchain's new block is in the future and unpredictable, therefore using that block hash and combine it with server seed and TX Index we can have a unique Seed, then using Mersenne Twister alg to generate a random number.
 
