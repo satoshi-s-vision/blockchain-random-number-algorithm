@@ -1,6 +1,6 @@
 # Random Number Algorithm (English Version)
 
-BytomDice Random Number Algorithm
+Random Number Algorithm
 
 The Algorithm we are using for BytomDice.com random number is easy to understand. 
 
