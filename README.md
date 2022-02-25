@@ -2,11 +2,11 @@
 
 Random Number Algorithm
 
-The Algorithm is easy to understand. 
+The random number Algorithm is easy to understand. 
 
-A blockchain's new block is in the future and unpredictable, therefore using that block hash and combine it with server seed and TX Index we can have a unique Seed, then using Mersenne Twister alg to generate a random number.
+A blockchain's new block is in the future and unpredictable, therefore using that block hash and combining it with server seed and TX Index, we can have a unique Seed, then use the Mersenne Twister algorithm to generate a random number.
 
-It is random in terms of unpredictable, but the result is repeatable (provable) which means you will always get the same result using
+It is random in terms of unpredictable, but the result is repeatable (provable), which means you will always get the same result using
 the same input.
 
 Seed = Server Seed + Deposit TX + Deposite TX Index
