@@ -48,3 +48,7 @@ Seed = Server Seed + Deposit TX + Deposite TX Index
   - 0
 
 随机数模拟器（验证工具）页面： https://bytomdice.com/simulator
+
+
+
+![BytomDice](https://pbs.twimg.com/media/D2Ob5EsUgAE1eFr?format=jpg&name=large)
