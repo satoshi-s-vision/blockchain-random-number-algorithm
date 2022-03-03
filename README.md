@@ -52,4 +52,4 @@ Seed = Server Seed + Deposit TX + Deposite TX Index
 
 
 
-![BytomDice](https://pbs.twimg.com/media/D2Ob5EsUgAE1eFr?format=jpg&name=large)
+![BytomDice](https://pbs.twimg.com/media/D2Ob5EcUwAAerWo?format=jpg&name=large)
