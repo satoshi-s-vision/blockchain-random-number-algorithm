@@ -22,6 +22,7 @@ Seed = Server Seed + Deposit TX + Deposite TX Index
 ### Run it online: https://repl.it/@Satoshigod/RandomNumberAlgorithm
 ### BytomDice Simulator: https://bytomdice.com/simulator
 
+![BytomDice](https://pbs.twimg.com/media/D2Ob5EsUgAE1eFr?format=jpg&name=large)
 
 # 区块链随机数算法
 
